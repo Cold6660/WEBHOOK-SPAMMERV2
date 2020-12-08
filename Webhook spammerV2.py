@@ -16,8 +16,7 @@ session = Session()
 b = Style.BRIGHT
 os = os.system
 os('cls')
-
-ctypes.windll.kernel32.SetConsoleTitleW(f"[WEBHOOK SPAMMER] By Cold | Dont Skid Me ;) ")
+ctypes.windll.kernel32.SetConsoleTitleW(f"[WEBHOOK SPAMMER] By Cold#6660 & never#6666 | Dont Skid Me ;) ")
 
 print(f"""
 
